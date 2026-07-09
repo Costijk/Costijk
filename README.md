@@ -16,4 +16,4 @@ Student building Java applications and security tools. Currently working on a Fi
 
 ## Stack
 
-Java, C++, Python, React, Spring Boot, Git, Linux, Wireshark
+Java, C++, Python, React, Git, Linux, Wireshark
