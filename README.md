@@ -1,16 +1,19 @@
-## Hi there 👋
+# Tudor Constantin-Mihai
 
-<!--
-**Costijk/Costijk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Automation & Applied Informatics, UTCB (Year II)
 
-Here are some ideas to get you started:
+Student building Java applications and security tools. Currently working on a File Integrity Manager for detecting unauthorized file modifications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Contact:** tudor.constantin501@gmail.com | +40 771 275 779  
+**GitHub:** [github.com/Costijk](https://github.com/Costijk)  
+**LinkedIn:** [linkedin.com/in/constantin-mihai-tudor](https://www.linkedin.com/in/constantin-mihai-tudor-5b1174213/)
+
+## Recent Work
+
+**File Integrity Manager** — Monitors file integrity and detects unauthorized changes using cryptographic signatures. Built with Java. [Code](https://github.com/Costijk/Java-File-Integrity-Manager)
+
+**AgendaProject** — Full-stack task management application. Spring Boot, MongoDB, React. [Code](https://github.com/Costijk/AgendaProject)
+
+## Stack
+
+Java, C++, Python, React, Spring Boot, Git, Linux, Wireshark
