@@ -1,6 +1,6 @@
 # Tudor Constantin-Mihai
 
-Automation & Applied Informatics, UTCB (Year II)
+Automation & Applied Informatics, UTCB (Year III)
 
 Student building Java applications and security tools. Currently working on a File Integrity Manager for detecting unauthorized file modifications.
 
